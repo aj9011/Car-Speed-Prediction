@@ -1,5 +1,5 @@
 # speed_prediction
-Speed prediction uses 3D resnet model for video feature extraction and applies regression to predict the speed of frames
+Speed prediction uses 3D CNN model for video feature extraction and applies regression to predict the speed of frames
 
 [Video feature extraction repository](https://github.com/kenshohara/3D-ResNets-PyTorch)   
 
