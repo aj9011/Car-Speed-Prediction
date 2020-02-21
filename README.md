@@ -35,4 +35,10 @@ This is leaderboard of "Learning to Steer by Mimicking Features from Heterogeneo
 - These results show that the result of applying resnet18 on comma2k19 maybe not bad.  
 
 
+# Reference
+
+https://github.com/experiencor/speed-prediction
+
+https://arxiv.org/abs/1412.0767
+
  
