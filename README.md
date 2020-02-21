@@ -3,8 +3,9 @@ Speed prediction uses 3D CNN model for video feature extraction and applies regr
 
 [Video feature extraction repository](https://github.com/kenshohara/3D-ResNets-PyTorch)   
 
-This 3D model is for video classification, then we modified it to apply it on speed regression as well as speed dataset (Comma2k19)
+This 3D model is for video classification, then we modified it to apply it on speed regression as well as speed dataset 
 
+3DCNN result base on blackbox data which we collect by ourselves
 [Comma2k19 Dataset repository](https://github.com/commaai/comma2k19)  
 
 # Installation
